@@ -3,6 +3,7 @@ package dataStructure;
 public class LinkedStack {
     SLinkedList S;
     int cnt;
+
     LinkedStack() {
         S = new SLinkedList();
     }
